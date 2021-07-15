@@ -1,0 +1,2 @@
+rootProject.name = "KT_BottomNavigationViewWithNC"
+include ':app'
